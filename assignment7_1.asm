@@ -2,10 +2,10 @@
 ; Program Description: performs simple encryption by
 ;rotating each plaintext byte a varying number of
 ;positions in different directions
-; Author: Mariia Surmenok (student: M00232832)
+; Author: Mariia Surmenok (student: )
 ; Creation Date: 11/14/2016
-; Revisions: 11/15/2016
-; Date:              Modified by:
+; Revisions: 
+; Date: 11/15/2016    Modified by:
 
 ; //include Irvine32.inc
 INCLUDE Irvine32.inc
